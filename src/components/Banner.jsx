@@ -8,7 +8,7 @@ function Banner() {
           <div className="banner-header">
             <h1>{`Jay Brady's Computer 💻`}</h1>
             <p>
-              Front End Developer located in <strong>Wisconsin</strong>
+              Full Stack Developer located in <strong>Wisconsin</strong>
             </p>
           </div>
 
